@@ -1,3 +1,6 @@
 {
-  "make": "clean"
+  "make": "clean",
+  "home": {
+    "jim": "toto"
+  }
 }
